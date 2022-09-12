@@ -1,2 +1,8 @@
-# Python-Projects
-Numerous Computer Science Projects to demonstrate mastery of Python
+
+# Python Projects
+
+Numerous sample programs to demonstrate mastery in Python
+
+
+## Completed
+• Merge vs Bubble Sort 
