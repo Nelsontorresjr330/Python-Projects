@@ -1,7 +1,7 @@
 
 # Python Projects
 
-Numerous sample programs to demonstrate mastery in Python
+A collection of small personal projects to demonstate python capabilites or basic CS principles.
 
 
 ## Completed
