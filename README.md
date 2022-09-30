@@ -6,4 +6,5 @@ A collection of small personal projects to demonstate python capabilites or basi
 
 ## Completed
 • Merge vs Bubble Sort <br />
-• Probability of Dice Rolls & Coin Flips
+• Probability of Dice Rolls & Coin Flips <br />
+• Password Manager utilizing PsygoPG2 & PostgreSQL
